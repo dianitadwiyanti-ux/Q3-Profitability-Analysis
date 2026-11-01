@@ -55,6 +55,7 @@ Pada Q3 2026, SAMALARIS mengalami penurunan pendapatan efisien akibat lonjakan a
 2. **Evaluasi Mitra Logistik & Standar Packaging:**
    - Terapkan standar pengemasan ekstra (*extra bubble wrap* / *hardbox*) khusus untuk pengiriman luar pulau untuk menekan angka *Damaged in Transit* (30,76%).
    - Berikan peringatan/KPI tegas kepada kurir mitra dengan tingkat kerusakan barang tertinggi di wilayah Medan dan Makassar.
+   - Atur pilihan kurir saat pelanggan ingin checkout untuk wilayah pengiriman ke Medan melalui SiCepat saja karena resiko rasio suksesnya tertinggi di wilayah         Medan. Kemudian untuk pengiriman wilayah Makassar dialokasikan ke J&T dan untuk wilayah Pulau Jawa gunakan SiCepat dan J&T.
 
 3. **Optimasi Kebijakan Pembayaran COD:**
    - Terapkan syarat & ketentuan khusus untuk fitur COD pada kategori *Fashion* (misal: konfirmasi sebelum pengiriman).
@@ -63,8 +64,7 @@ Pada Q3 2026, SAMALARIS mengalami penurunan pendapatan efisien akibat lonjakan a
 ---
 
 ## 🛠️ Tools & Skills Used
-- **Analytical Method:** Exploratory Data Analysis (EDA), Diagnostic Analytics, Pareto (80/20) Analysis.
-- **Tools:** Python / SQL / Excel (Pilih yang kamu pakai) & Tableau / Power BI / Google Looker Studio.
-- **Core Competencies:** Business Diagnostics, Supply Chain & Logistics Evaluation, E-commerce Metrics Analysis.
+- **Analytical Method:** Exploratory Data Analysis (EDA), Diagnostic Analytics
+- **Tools:** Python / SQL / Power BI 
 
 ---
