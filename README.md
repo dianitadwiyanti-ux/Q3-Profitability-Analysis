@@ -68,14 +68,3 @@ Pada Q3 2026, SAMALARIS mengalami penurunan pendapatan efisien akibat lonjakan a
 - **Core Competencies:** Business Diagnostics, Supply Chain & Logistics Evaluation, E-commerce Metrics Analysis.
 
 ---
-
-## 📂 Repository Structure
-```text
-├── data/
-│   ├── raw_samalaris_sales_q3.csv       # Dataset mentah (opsional/anonim)
-│   └── cleaned_samalaris_sales.csv     # Data yang telah dibersihkan
-├── notebooks/
-│   └── SAMALARIS_Sales_Performance.ipynb # Script analisis / EDA
-├── reports/
-│   └── SAMALARIS_Executive_Summary.pdf  # Laporan presentasi bisnis
-└── README.md                            # Dokumentasi utama proyek
