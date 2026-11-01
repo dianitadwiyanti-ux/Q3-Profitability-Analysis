@@ -21,7 +21,7 @@ Pada Q3 2026, SAMALARIS mengalami penurunan pendapatan efisien akibat lonjakan a
 - **Cakupan Data:**
   - **Total Orders (Q3):** 1.487 Transaksi
   - **Total Returns (Q3):** 829 Transaksi (*Return Rate*: 55,75%)
-  - **Kategori Produk Utama:** Fashion, Electronics, Home & Living, Beauty, dll.
+  - **Kategori Produk Utama:** Fashion, Peralatan Rumah Tangga, Olahraga, Kecantikan, Elektronik.
   - **Metode Pembayaran:** COD, Transfer Bank, E-Wallet, Credit Card.
 
 ---
@@ -51,6 +51,7 @@ Pada Q3 2026, SAMALARIS mengalami penurunan pendapatan efisien akibat lonjakan a
 1. **Perbaikan Kontrol Kualitas Produk & Panduan Ukuran (Kategori Fashion):**
    - Perbarui *size chart* dengan detail pengukuran yang presisi (panjang, lebar, lingkar dada) dan sertakan panduan visual/foto *model height & weight*.
    - Tingkatkan *Quality Control* (QC) sebelum barang dikemas untuk memastikan deskripsi fisik sesuai dengan produk asli.
+   - Berikan layanan pelanggan untuk konsultasi terkait ukuran sebelum membeli. Dan jadikan hal tersebut syarat pengembalian, Jika pelanggan tidak melakukan            konsultasi sebelumnya maka permintaan untuk retur bisa ditolak.
 
 2. **Evaluasi Mitra Logistik & Standar Packaging:**
    - Terapkan standar pengemasan ekstra (*extra bubble wrap* / *hardbox*) khusus untuk pengiriman luar pulau untuk menekan angka *Damaged in Transit* (30,76%).
