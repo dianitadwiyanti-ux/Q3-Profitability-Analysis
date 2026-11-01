@@ -1,0 +1,32 @@
+product_id,product_name,category,price
+PROD_001,Smartphone X V1,Elektronik,3499000
+PROD_002,Laptop Pro 14 V2,Elektronik,8999000
+PROD_003,Smartwatch Gen-2 V1,Elektronik,750000
+PROD_004,TWS Earbuds Air V3,Elektronik,299000
+PROD_005,Powerbank 20000mAh V2,Elektronik,250000
+PROD_006,Kamera Mirrorless V1,Elektronik,6500000
+PROD_007,Speaker Bluetooth V3,Elektronik,450000
+PROD_008,Kemeja Flanel Casual V1,Fashion,149000
+PROD_009,Celana Chinos Slim Fit V2,Fashion,189000
+PROD_010,Jaket Bomber Hoodie V1,Fashion,275000
+PROD_011,Kaos Polos Cotton V3,Fashion,65000
+PROD_012,Sepatu Sneakers Running V2,Fashion,350000
+PROD_013,Tas Ransel Laptop V1,Fashion,220000
+PROD_014,Serum Vitamin C V2,Kecantikan,89000
+PROD_015,Moisturizer Barrier Gel V1,Kecantikan,95000
+PROD_016,Sunscreen SPF 50 V3,Kecantikan,75000
+PROD_017,Lip Matte Velvet V1,Kecantikan,55000
+PROD_018,Facial Wash Gentle V2,Kecantikan,45000
+PROD_019,Body Lotion Whitening V1,Kecantikan,65000
+PROD_020,Blender Kapsul Serbaguna V1,Peralatan Rumah Tangga,185000
+PROD_021,Air Fryer 3L V2,Peralatan Rumah Tangga,599000
+PROD_022,Dispenser Elektrik V1,Peralatan Rumah Tangga,125000
+PROD_023,Set Panci Anti Lengket V3,Peralatan Rumah Tangga,349000
+PROD_024,Lampu LED Smart Bulb V2,Peralatan Rumah Tangga,75000
+PROD_025,Vacuum Cleaner Mini V1,Peralatan Rumah Tangga,210000
+PROD_026,Matras Yoga Anti Slip V1,Olahraga,95000
+PROD_027,Dumbbell Set 5kg V2,Olahraga,199000
+PROD_028,Resistance Band V1,Olahraga,45000
+PROD_029,Botol Minum Tumbler V3,Olahraga,85000
+PROD_030,Sepeda Statis Mini V1,Olahraga,749000
+PROD_031,Jersey Running Dry-fit V2,Olahraga,99000
