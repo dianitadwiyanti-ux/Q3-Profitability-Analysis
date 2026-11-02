@@ -69,3 +69,6 @@ Pada Q3 2026, SAMALARIS mengalami penurunan pendapatan efisien akibat lonjakan a
 - **Tools:** Python / SQL / Power BI 
 
 ---
+## 📸 Power BI Dashboard
+<img width="1364" height="763" alt="Screenshot 2026-10-30 214234" src="https://github.com/user-attachments/assets/531ad2b9-5ff9-4c60-bbc2-5e8e89bba065" />
+
