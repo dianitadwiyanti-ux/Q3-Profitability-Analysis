@@ -1,11 +1,7 @@
 # 🛒 Q3 Profitability Analysis E-Commerce SAMALARIS (2026)
 
-![Project Status](https://img.shields.io/badge/Project%20Status-Completed-brightgreen)
-![Tools](https://img.shields.io/badge/Tools-Microsoft%20Excel%20%7C%20Advanced%20Formulas%20%7C%20Pivot%20Table-blue)
+![Project Status](https://img.shields.io/badge/Project%20Status-Completed-brightgreen)  ![Tools](https://img.shields.io/badge/Tools-Python%20%7C%20PostgreSQL%20%7C%20Power%20BI%20-blue)
 
-![Tools](https://img.shields.io/badge/Tools-Python%20%7C%20PostgreSQL%20%7C%20Power%20BI%20-blue)
-
-![Tools](https://img.shields.io/badge/Tools-Python%20%7C%SQL%20%7C%20PostgreSQL%20%7C%Power%20%BI%20-blue)
 
 ---
 
