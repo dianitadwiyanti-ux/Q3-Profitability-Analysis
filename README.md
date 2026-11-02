@@ -1,5 +1,10 @@
 # 🛒 Q3 Profitability Analysis E-Commerce SAMALARIS (2026)
 
+![Project Status](https://img.shields.io/badge/Project%20Status-Completed-brightgreen)
+![Tools](https://img.shields.io/badge/Tools-Python%20SQL%20%7C%20PostgreSQL%20Power BI%20%7C%20-blue)
+
+---
+
 ## 📌 Executive Summary
 Proyek ini bertujuan untuk mendiagnosis penurunan performa penjualan dan lonjakan drastis *return rate* (tingkat pengembalian barang) pada toko e-commerce **SAMALARIS** selama periode Q3 2026. Menggunakan pendekatan **Exploratory Data Analysis (EDA)** dan **Diagnostic Analytics**, proyek ini mengidentifikasi akar masalah operasional serta memberikan rekomendasi bisnis untuk menurunkan *return rate* dan meningkatkan *customer satisfaction*.
 
