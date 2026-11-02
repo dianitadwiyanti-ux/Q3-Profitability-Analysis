@@ -5,7 +5,7 @@
 
 
 
-![Tools](https://img.shields.io/badge/Tools-Python%207C%SQL%20%7C%20PostgreSQL%207C%Power%20%7CBI%20-blue)
+![Tools](https://img.shields.io/badge/Tools-Python%20%7C%SQL%20%7C%20PostgreSQL%20%7C%Power%20%BI%20-blue)
 
 ---
 
